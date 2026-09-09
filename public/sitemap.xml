@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://samuelfagundez.github.io/tahona-san-clemente/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-obrador-interior.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-cafe-y-bolleria.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-tostadas-y-cafe.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-bolleria-artesana.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-napolitanas-de-chocolate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-vitrina-de-salados.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-arroz-al-horno.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-desayuno-en-la-terraza.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/tahona-san-clemente/gallery/tahona-san-clemente-mostrador.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

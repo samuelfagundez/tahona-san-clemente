@@ -1,0 +1,44 @@
+@import 'tailwindcss';
+
+/* Paleta extraída de las fotografías reales del local: pared y rótulo
+   "Tahona · Pan y Café" en negro sobre blanco, mostrador de obra con azulejo
+   blanco, suelo y mesas de madera cálida, bollería recién horneada de tonos
+   caramelo y dorado, café con leche. Ver punto 0.5 del handoff: nunca una
+   paleta genérica de plantilla. */
+@theme {
+  --color-cream: #f8f3e9;
+  --color-cream-dark: #efe4d1;
+  --color-ink: #221d18;
+
+  /* Ámbar de corteza de pan — acción principal */
+  --color-crust: #b26a34;
+  --color-crust-dark: #8a4f24;
+
+  /* Marrón café/espresso — acción secundaria y detalles */
+  --color-cocoa: #6b4a33;
+  --color-cocoa-dark: #4a3021;
+
+  /* Dorado de bollería y trigo — acentos suaves */
+  --color-gold: #cf9a45;
+  --color-wheat: #b98a4e;
+
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+  }
+}
