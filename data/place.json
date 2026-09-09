@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/nJ92tsDZtoKSG4HK6",
+    "expandedUrl": "https://www.google.com/maps/place/Tahona+San+Clemente/@39.490052,-0.401791,18z/data=!4m6!3m5!1s0xd604588de70907d:0x15a72773eff3caf8!8m2!3d39.4901623!4d-0.4018123!16s%2Fg%2F12qgk5v74?entry=tts&g_ep=EgoyMDI2MDkwMi4wIPu8ASoASAFQAw%3D%3D&skid=bd14398d-bb3e-4454-8e43-72dc5b1cbf2c&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=1560259174807620344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJfZBw3ohFYA0R-Mrz73MnpxU",
+    "featureId": "0xd604588de70907d:0x15a72773eff3caf8",
+    "gmapsPlaceRef": "/g/12qgk5v74",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-09T20:15:09.908Z"
+  },
+  "name": "Tahona San Clemente",
+  "rating": {
+    "score": 4.3,
+    "count": 451
+  },
+  "phone": "+34 665 87 85 07",
+  "phoneNational": "665 87 85 07",
+  "hours": {
+    "weekly": [
+      "lunes: 7:00–21:00",
+      "martes: 7:00–21:00",
+      "miércoles: 7:00–21:00",
+      "jueves: 7:00–21:00",
+      "viernes: 7:00–21:00",
+      "sábado: Cerrado",
+      "domingo: Cerrado"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 7,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 7,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 7,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 7,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 7,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 21,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [],
+  "pricePerPerson": "1 € – 10 €",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "links": {
+    "website": null,
+    "menu": null,
+    "reservations": null,
+    "reservable": null,
+    "googleMaps": "https://maps.google.com/?cid=1560259174807620344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd604588de70907d:0x15a72773eff3caf8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd604588de70907d:0x15a72773eff3caf8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604588de70907d:0x15a72773eff3caf8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604588de70907d:0x15a72773eff3caf8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "Carrer de Sant Clement, 2, Campanar, 46015 València, Valencia",
+    "short": "C. San Clemente, 2, Valencia",
+    "components": {
+      "number": "2",
+      "street": "Carrer de Sant Clement",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46015"
+    }
+  },
+  "location": {
+    "lat": 39.4901623,
+    "lng": -0.40181229999999996
+  },
+  "primaryType": "bakery",
+  "primaryTypeLabel": "Panadería",
+  "types": [
+    "bakery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Comer en el local",
+    "Para llevar",
+    "Aseos",
+    "Desayunos",
+    "Cafés"
+  ],
+  "accessibility": [
+    "Entrada accesible",
+    "Aseo accesible"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": null,
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "Josh Armstrong",
+      "attributionUri": "https://maps.google.com/maps/contrib/114400129463557725066"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 1713,
+      "heightPx": 1284,
+      "attribution": "Enara",
+      "attributionUri": "https://maps.google.com/maps/contrib/112252425125311321379"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 4160,
+      "heightPx": 3120,
+      "attribution": "Elias Diaz Blanco",
+      "attributionUri": "https://maps.google.com/maps/contrib/104696534691903461142"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Diego Raul Galmarini",
+      "attributionUri": "https://maps.google.com/maps/contrib/104214445794233070907"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 2736,
+      "heightPx": 2746,
+      "attribution": "Gabriela De Sousa Parisi",
+      "attributionUri": "https://maps.google.com/maps/contrib/109023561265558036344"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 2911,
+      "heightPx": 2885,
+      "attribution": "Alvaro Martín Martín",
+      "attributionUri": "https://maps.google.com/maps/contrib/114566473312391963327"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Juan Bautista Piquer Pons",
+      "attributionUri": "https://maps.google.com/maps/contrib/116548055633718884411"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 2150,
+      "heightPx": 1813,
+      "attribution": "Gabriel Zapata Ferrer",
+      "attributionUri": "https://maps.google.com/maps/contrib/111905860874990183689"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Josh Armstrong",
+      "attributionUri": "https://maps.google.com/maps/contrib/114400129463557725066"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 1836,
+      "heightPx": 3264,
+      "attribution": "antonio reyna",
+      "attributionUri": "https://maps.google.com/maps/contrib/114575612686538836823"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Elena Checa",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVnpaXz2ajSNzGx2qVnVMDHZXYYD5JD2obFUAx4P62X2MBpu2bg=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/100200051893775995324/reviews",
+      "rating": 5,
+      "text": "Personal muy agradable y profesional, da gusto estar en este local. Comida de verdad y muy buenos precios. GRACIAS :)",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-02-13T18:08:40.030054260Z"
+    },
+    {
+      "author": "María Amparo Monera Segrelles",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIOFacAnNQ16bie1ucxAg1DWrOTp8_IJp7mfLVOgfeKVgUTVQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/106250161749556499675/reviews",
+      "rating": 5,
+      "text": "Trato exquisito, rapidez, familiaridad y profesionales en todos los sentidos. Tal vez sea pequeño el local, pero merecd la pena hacer cola para tomar unos desayunos buenisimos.",
+      "language": "es",
+      "relativeTime": "Hace 2 meses",
+      "publishTime": "2026-06-30T13:06:59.645881735Z"
+    },
+    {
+      "author": "Sara Cruz",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocI8pWMZ-4_eZW-Y-DAOmKXU8A4_6QvQU_Qrxgqe3AHgSYuRXqw=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/109287443167316484826/reviews",
+      "rating": 5,
+      "text": "Solamente he ido una vez, pero las chicas que me atendieron me alegraron el día! Súper buen servicio, amabilidad y el café estaba increíble. Hacía tiempo que no probaba uno tan bueno.",
+      "language": "es",
+      "relativeTime": "Hace 5 meses",
+      "publishTime": "2026-04-08T22:35:38.221536761Z"
+    },
+    {
+      "author": "Mari García García",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVaOhEpczM9y6bbLGvF1rYBAxiG26_bHM5F57ITFfpe3BZDYKWU=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/115744812135257575469/reviews",
+      "rating": 5,
+      "text": "Me encanta desayunar aquí. La que me ha atendido muy amable.",
+      "language": "es",
+      "relativeTime": "Hace 1 mes",
+      "publishTime": "2026-08-06T12:21:14.119733391Z"
+    },
+    {
+      "author": "Andrea Jordan Vidagany",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKV3GUs_S0JYi2uQxG14mXi1Qs-ac2r3yLXXExd0LOjdfxkOA=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/109412939903917043495/reviews",
+      "rating": 5,
+      "text": "El chico que me atendió fue muy amable y profesional.\nLe pregunté que alimentos no llevaban lactosa y me los indicó claramente.\nMuy buena experiencia tanto por el trato, como por el producto.",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-03-05T08:04:56.653989336Z"
+    }
+  ]
+}
